@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/************ google-font link end *************/
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    opacity: 0.7;
+
+    /*************** first-part start ************/
+}
+
+.first-image {
+    display: flex;
+    background-image: url(../image/buddha-4-1142506.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.button {
+    text-transform: uppercase;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.265);
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    padding: 30px;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sectionfirst-container {
+    background-color: rgba(128, 128, 128, 0.233);
+}
+
+/************* first-part end *************/
+
+/********* every-section except few start *********/
+.section {
+    padding-top: 10px;
+    padding-bottom: 60px;
+    text-align: justify;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.8em;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*********** every-section except few end *********/
+
+/********** every-h2 start ***********/
+h2 {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+/************ every-h2 end ***********/
+
+/**************** second-part start **********/
+.second-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../image/light-effect-1146280.jpg);
+    height: 400px;
+}
+
+.button-one {
+    text-transform: uppercase;
+    color: white;
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    padding: 30px;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.secondsection-container {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-top: -70px;
+    padding-top: 10px;
+}
+
+/************** second-part end ***************/
+
+/***************** third-part start ************/
+.third-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(../image/a-white-green-window-3-1225139.jpg);
+    height: 400px;
+
+}
+
+.button-two {
+    text-transform: uppercase;
+    color: white;
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    padding: 30px;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.thirdsection-container {
+    background-color: black;
+    color: white
+}
+
+/** third-part end */
+
+/*************** fourth-part start **************/
+.fourth-image {
+    display: flex;
+    background-image: url(../image/buddha-4-1142506.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.button-three {
+    text-transform: uppercase;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.724);
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+    word-spacing: 10px;
+    letter-spacing: 7px;
+    padding: 30px;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/***************** fourt-part end **********************/
